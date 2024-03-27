@@ -1,0 +1,374 @@
+>Cluster 0
+0	585aa, >1AO6_A_nan_nan... *
+>Cluster 1
+0	473aa, >P53378_A_nan_nan... *
+>Cluster 2
+0	394aa, >1QLP_A_nan_nan... *
+>Cluster 3
+0	386aa, >P03230_A_nan_nan... *
+>Cluster 4
+0	381aa, >1I0E_A_nan_nan... *
+1	374aa, >1I0E_A_S285A_A... at 0.0/374aa/97.326%
+>Cluster 5
+0	335aa, >1XSN_A_nan_nan... *
+1	87aa, >1NZP_A_nan_nan... at 1.43e-60/87aa/100.000%
+>Cluster 6
+0	321aa, >2HNP_A_nan_nan... *
+>Cluster 7
+0	305aa, >1YPT_A_nan_nan... *
+1	278aa, >1YPT_A_H402A_A... at 0.0/278aa/99.640%
+>Cluster 8
+0	298aa, >1GYM_A_nan_nan... *
+1	298aa, >1PTD_A_nan_nan... at 0.0/298aa/100.000%
+>Cluster 9
+0	275aa, >1DUI_A_D99S_A... *
+1	275aa, >1DUI_A_E156S_A... at 9.61e-167/275aa/99.273%
+>Cluster 10
+0	260aa, >1THE_A_nan_nan... *
+1	216aa, >1PPO_A_nan_nan... at 2.51e-13/238aa/28.151%
+2	212aa, >1PPN_A_nan_nan... at 2.77e-20/236aa/29.661%
+>Cluster 11
+0	256aa, >1FEZ_A_nan_nan... *
+>Cluster 12
+0	247aa, >1YPI_A_nan_nan... *
+>Cluster 13
+0	245aa, >1EX3_A_nan_nan... *
+1	239aa, >2TGA_A_nan_nan... at 1.28e-60/234aa/42.735%
+2	131aa, >1YPH_C_nan_nan... at 5.55e-95/131aa/100.000%
+>Cluster 14
+0	244aa, >3WU2_o_nan_nan... *
+>Cluster 15
+0	243aa, >2L6X_A_nan_nan... *
+>Cluster 16
+0	217aa, >6GST_A_nan_nan... *
+>Cluster 17
+0	212aa, >2L90_A_E115Q_A... *
+1	212aa, >2L90_A_nan_nan... at 5.56e-164/212aa/99.528%
+>Cluster 18
+0	207aa, >1EH6_A_nan_nan... *
+>Cluster 19
+0	207aa, >1H4G_B_nan_nan... *
+1	207aa, >1QH7_A_nan_nan... at 3.22e-157/207aa/99.517%
+2	185aa, >1BCX_A_nan_nan... at 5.19e-49/186aa/49.462%
+3	185aa, >1HV0_A_nan_nan... at 1.91e-49/186aa/48.925%
+4	185aa, >1HV1_A_nan_nan... at 4.41e-49/186aa/48.925%
+5	185aa, >1XNB_A_nan_nan... at 6.45e-50/186aa/49.462%
+>Cluster 20
+0	191aa, >1NFN_A_nan_nan... *
+1	165aa, >1GS9_A_nan_nan... at 7.90e-92/165aa/99.394%
+2	144aa, >1LE2_A_C158C_A... at 2.34e-78/144aa/99.306%
+>Cluster 21
+0	189aa, >1DSB_A_nan_nan... *
+>Cluster 22
+0	189aa, >1P5F_A_nan_nan... *
+>Cluster 23
+0	188aa, >1B2V_A_Y75A_A... *
+1	188aa, >1B2V_A_nan_nan... at 8.50e-109/188aa/99.468%
+>Cluster 24
+0	186aa, >4MA9_A_nan_nan... *
+>Cluster 25
+0	179aa, >1I7K_A_S114S_A... *
+1	153aa, >1JBB_A_nan_nan... at 3.12e-34/124aa/45.968%
+2	152aa, >1JAS_A_nan_nan... at 1.39e-38/128aa/45.312%
+3	146aa, >1I7K_A_S114C_A... at 7.10e-111/146aa/99.315%
+>Cluster 26
+0	176aa, >1HNG_A_nan_nan... *
+1	99aa, >1CDC_A_nan_nan... at 1.77e-71/99aa/98.990%
+>Cluster 27
+0	165aa, >2CPL_A_nan_nan... *
+>Cluster 28
+0	164aa, >1L54_A_K102K_A... *
+1	164aa, >1L54_A_nan_nan... at 3.16e-123/164aa/100.000%
+2	164aa, >1L98_A_E105E_A... at 8.43e-121/164aa/97.561%
+3	164aa, >1QT8_A_H26H_A... at 2.63e-121/164aa/98.780%
+4	164aa, >2LZM_A_nan_nan... at 2.41e-121/164aa/98.171%
+>Cluster 29
+0	157aa, >1DG9_A_nan_nan... *
+1	157aa, >1PNT_A_nan_nan... at 1.87e-119/157aa/100.000%
+2	157aa, >1Z12_A_nan_nan... at 1.87e-119/157aa/100.000%
+>Cluster 30
+0	155aa, >1GOA_A_nan_nan... *
+1	155aa, >1RDD_A_nan_nan... at 2.29e-119/155aa/100.000%
+2	155aa, >2RN2_A_nan_nan... at 2.29e-119/155aa/100.000%
+>Cluster 31
+0	154aa, >2MGE_A_A125C_A... *
+1	154aa, >2MGE_A_G124C_A... at 4.26e-111/154aa/98.701%
+2	153aa, >1DUK_A_nan_nan... at 2.67e-109/153aa/98.039%
+3	153aa, >1DWR_A_nan_nan... at 4.03e-97/152aa/86.184%
+4	153aa, >1MBC_A_nan_nan... at 2.67e-109/153aa/98.039%
+5	153aa, >1WLA_A_nan_nan... at 4.03e-97/152aa/86.184%
+6	153aa, >1YMB_A_nan_nan... at 4.03e-97/152aa/86.184%
+7	153aa, >2MB5_A_nan_nan... at 2.67e-109/153aa/98.039%
+8	153aa, >4MBN_A_nan_nan... at 2.67e-109/153aa/98.039%
+9	151aa, >1A6K_A_nan_nan... at 1.70e-107/151aa/98.013%
+10	151aa, >1A6M_A_nan_nan... at 1.70e-107/151aa/98.013%
+>Cluster 32
+0	150aa, >1DE3_A_E96Q_A... *
+1	150aa, >1DE3_A_H137Q_A... at 3.11e-112/150aa/98.667%
+2	150aa, >1DE3_A_H50Q,H137Q_A... at 1.49e-111/150aa/98.000%
+3	150aa, >1DE3_A_H50Q_A... at 3.11e-112/150aa/98.667%
+4	150aa, >1DE3_A_nan_nan... at 4.86e-113/150aa/99.333%
+>Cluster 33
+0	149aa, >1DIV_A_nan_nan... *
+>Cluster 34
+0	149aa, >1EY0_A_nan_nan... *
+1	149aa, >1STG_A_nan_nan... at 6.49e-112/149aa/100.000%
+2	149aa, >1STN_A_nan_nan... at 6.49e-112/149aa/100.000%
+3	149aa, >1U9R_A_E66E_A... at 3.01e-107/149aa/97.315%
+4	149aa, >2LKV_A_A109E_A... at 1.58e-107/149aa/97.315%
+5	149aa, >2LKV_A_A132E_A... at 1.58e-107/149aa/97.315%
+6	149aa, >2LKV_A_A58E_A... at 1.58e-107/149aa/97.315%
+7	149aa, >2LKV_A_A90E_A... at 1.58e-107/149aa/97.315%
+8	149aa, >2LKV_A_F34E_A... at 8.09e-107/149aa/97.315%
+9	149aa, >2LKV_A_G20E_A... at 3.48e-107/149aa/97.315%
+10	149aa, >2LKV_A_I72E_A... at 4.67e-107/149aa/97.315%
+11	149aa, >2LKV_A_I92E_A... at 4.67e-107/149aa/97.315%
+12	149aa, >2LKV_A_L103E_A... at 3.51e-107/149aa/97.315%
+13	149aa, >2LKV_A_L125E_A... at 3.51e-107/149aa/97.315%
+14	149aa, >2LKV_A_L25E_A... at 3.51e-107/149aa/97.315%
+15	149aa, >2LKV_A_L36E_A... at 3.51e-107/149aa/97.315%
+16	149aa, >2LKV_A_L37E_A... at 3.51e-107/149aa/97.315%
+17	149aa, >2LKV_A_L38E_A... at 3.51e-107/149aa/97.315%
+18	149aa, >2LKV_A_N100E_A... at 2.58e-107/149aa/97.315%
+19	149aa, >2LKV_A_N118E_A... at 2.58e-107/149aa/97.315%
+20	149aa, >2LKV_A_T41E_A... at 1.78e-107/149aa/97.315%
+21	149aa, >2LKV_A_T62E_A... at 1.78e-107/149aa/97.315%
+22	149aa, >2LKV_A_V104E_A... at 3.01e-107/149aa/97.315%
+23	149aa, >2LKV_A_V23E_A... at 3.01e-107/149aa/97.315%
+24	149aa, >2LKV_A_V39E_A... at 3.01e-107/149aa/97.315%
+25	149aa, >2LKV_A_V66E_A... at 3.01e-107/149aa/97.315%
+26	149aa, >2LKV_A_V74E_A... at 3.01e-107/149aa/97.315%
+27	149aa, >2LKV_A_V99E_A... at 3.01e-107/149aa/97.315%
+28	149aa, >2LKV_A_Y91E_A... at 4.10e-107/149aa/97.315%
+29	149aa, >2OXP_A_D66D_A... at 4.05e-107/149aa/97.315%
+30	149aa, >2QDB_A_Q75Q_A... at 9.13e-107/149aa/95.302%
+31	149aa, >2RDF_A_A75A_A... at 2.22e-106/149aa/95.302%
+32	149aa, >2RKS_A_K38K_A... at 3.44e-107/149aa/97.315%
+33	149aa, >2SNM_A_K66K_A... at 8.85e-111/149aa/99.329%
+34	149aa, >3D6C_A_E38E_A... at 3.51e-107/149aa/97.315%
+35	149aa, >3DMU_A_K62K_A... at 1.90e-107/149aa/97.315%
+36	137aa, >3C1E_A_K125K_A... at 8.98e-90/137aa/91.241%
+37	136aa, >1STN_A_D77A_A... at 1.20e-100/136aa/99.265%
+38	136aa, >1STN_A_D77N_A... at 3.74e-101/136aa/99.265%
+39	136aa, >1STN_A_E101A_A... at 7.15e-101/136aa/99.265%
+40	136aa, >1STN_A_E73A_A... at 7.15e-101/136aa/99.265%
+41	136aa, >1STN_A_K127A_A... at 5.80e-101/136aa/99.265%
+42	136aa, >1STN_A_K9A_A... at 5.80e-101/136aa/99.265%
+43	136aa, >1STN_A_S128A_A... at 3.28e-101/136aa/99.265%
+44	136aa, >1STN_A_Y91A_A... at 1.61e-100/136aa/99.265%
+45	136aa, >1STN_A_Y91F_A... at 3.17e-101/136aa/99.265%
+46	136aa, >1STN_A_Y93A_A... at 1.61e-100/136aa/99.265%
+47	136aa, >1STN_A_Y93F_A... at 3.17e-101/136aa/99.265%
+48	136aa, >1TT2_A_K92K_A... at 7.38e-89/136aa/91.176%
+49	136aa, >2OEO_A_D92D_A... at 9.22e-86/136aa/87.500%
+50	136aa, >2RBM_A_K72K_A... at 7.38e-89/136aa/91.176%
+51	136aa, >3EJI_A_K36K_A... at 5.73e-89/136aa/91.176%
+52	136aa, >4HMI_A_K99K_A... at 5.67e-89/136aa/91.176%
+53	135aa, >3BDC_A_A109K_A... at 1.08e-88/135aa/91.111%
+54	135aa, >3BDC_A_A132K_A... at 3.02e-82/135aa/91.111%
+55	135aa, >3BDC_A_A58K_A... at 1.08e-88/135aa/91.111%
+56	135aa, >3BDC_A_A90K_A... at 1.08e-88/135aa/91.111%
+57	135aa, >3BDC_A_F34E_A... at 4.97e-88/135aa/91.111%
+58	135aa, >3BDC_A_G20K_A... at 1.57e-88/135aa/91.111%
+59	135aa, >3BDC_A_L125K_A... at 2.09e-88/135aa/91.111%
+60	135aa, >3BDC_A_L25D_A... at 2.09e-88/135aa/91.111%
+61	135aa, >3BDC_A_L25K_A... at 2.09e-88/135aa/91.111%
+62	135aa, >3BDC_A_L36D_A... at 2.09e-88/135aa/91.111%
+63	135aa, >3BDC_A_L37K_A... at 2.09e-88/135aa/91.111%
+64	135aa, >3BDC_A_N100K_A... at 1.12e-88/135aa/91.111%
+65	135aa, >3BDC_A_N118K_A... at 1.12e-88/135aa/91.111%
+66	135aa, >3BDC_A_T41K_A... at 1.04e-88/135aa/91.111%
+67	135aa, >3BDC_A_T62K_A... at 1.04e-88/135aa/91.111%
+68	135aa, >3BDC_A_V23D_A... at 1.75e-88/135aa/91.111%
+69	135aa, >3BDC_A_V23E_A... at 1.32e-88/135aa/91.111%
+70	135aa, >3BDC_A_V39K_A... at 1.66e-88/135aa/91.111%
+71	135aa, >3BDC_A_V74K_A... at 1.66e-88/135aa/91.111%
+72	135aa, >3BDC_A_V99K_A... at 1.66e-88/135aa/91.111%
+73	135aa, >3BDC_A_Y91K_A... at 2.69e-88/135aa/91.111%
+74	135aa, >3C1F_A_K104K_A... at 1.66e-88/135aa/91.111%
+75	135aa, >3D4D_A_E91E_A... at 2.97e-88/135aa/91.111%
+76	135aa, >3D6C_A_E38D_A... at 2.93e-96/135aa/97.037%
+77	135aa, >3D6C_A_E38E,D77N_A... at 8.60e-96/135aa/96.296%
+78	135aa, >3D6C_A_E38E,E122D_A... at 8.05e-96/135aa/96.296%
+79	135aa, >3D6C_A_E38E,E122Q_A... at 4.86e-96/135aa/96.296%
+80	135aa, >3D6C_A_E38E,R126Q_A... at 1.07e-95/135aa/96.296%
+81	135aa, >3E5S_A_K103K_A... at 2.09e-88/135aa/91.111%
+82	135aa, >3ERO_A_E72E_A... at 2.09e-88/135aa/91.111%
+83	135aa, >3ERQ_A_K25K_A... at 2.09e-88/135aa/91.111%
+84	135aa, >3EVQ_A_E25E_A... at 1.81e-88/135aa/91.111%
+85	135aa, >3H6M_A_E104E_A... at 1.32e-88/135aa/91.111%
+86	135aa, >3HZX_A_K66K_A... at 1.66e-88/135aa/91.111%
+87	135aa, >3ITP_A_K34K_A... at 6.33e-88/135aa/91.111%
+88	135aa, >3P75_A_D104D_A... at 1.75e-88/135aa/91.111%
+89	135aa, >3QOJ_A_K23K_A... at 1.66e-88/135aa/91.111%
+90	135aa, >3RUZ_A_K74K_A... at 1.66e-88/135aa/91.111%
+91	135aa, >5E3F_A_K92K_A... at 2.28e-88/135aa/91.111%
+>Cluster 35
+0	146aa, >1HHO_B_nan_nan... *
+1	146aa, >4HHB_B_nan_nan... at 9.33e-109/146aa/100.000%
+2	141aa, >1HHO_A_nan_nan... at 5.21e-36/145aa/43.448%
+3	141aa, >4HHB_A_nan_nan... at 5.21e-36/145aa/43.448%
+>Cluster 36
+0	130aa, >1LZ1_A_nan_nan... *
+1	129aa, >135L_A_nan_nan... at 3.43e-55/128aa/59.375%
+2	129aa, >1LSE_A_nan_nan... at 1.99e-56/128aa/60.938%
+3	129aa, >1LYS_A_nan_nan... at 1.99e-56/128aa/60.938%
+4	129aa, >2LZT_A_nan_nan... at 1.99e-56/128aa/60.938%
+5	129aa, >4LZT_A_nan_nan... at 1.99e-56/128aa/60.938%
+6	129aa, >6LYZ_A_nan_nan... at 1.99e-56/128aa/60.938%
+>Cluster 37
+0	129aa, >1MUT_A_nan_nan... *
+>Cluster 38
+0	124aa, >1KF3_A_nan_nan... *
+1	124aa, >1RNZ_A_nan_nan... at 1.48e-85/124aa/100.000%
+2	124aa, >3RN3_A_nan_nan... at 1.48e-85/124aa/100.000%
+3	124aa, >7RSA_A_nan_nan... at 1.48e-85/124aa/100.000%
+4	124aa, >9RAT_A_nan_nan... at 1.48e-85/124aa/100.000%
+5	113aa, >3SRN_A_nan_nan... at 4.99e-76/113aa/100.000%
+>Cluster 39
+0	122aa, >2PYO_D_nan_nan... *
+>Cluster 40
+0	120aa, >1MEK_A_nan_nan... *
+1	108aa, >2TRX_A_nan_nan... at 1.38e-16/92aa/33.696%
+2	105aa, >1ERT_A_nan_nan... at 2.12e-12/80aa/35.000%
+3	105aa, >1ERU_A_nan_nan... at 2.12e-12/80aa/35.000%
+4	105aa, >1TRS_A_nan_nan... at 1.28e-12/80aa/35.000%
+5	105aa, >1TRW_A_nan_nan... at 1.28e-12/80aa/35.000%
+6	105aa, >3TRX_A_nan_nan... at 3.04e-12/80aa/35.000%
+>Cluster 41
+0	120aa, >2PYO_C_nan_nan... *
+>Cluster 42
+0	113aa, >3SSI_A_nan_nan... *
+>Cluster 43
+0	111aa, >1NLX_A_nan_nan... *
+>Cluster 44
+0	110aa, >1A2P_B_nan_nan... *
+1	110aa, >1A2P_C_nan_nan... at 8.02e-82/110aa/100.000%
+2	110aa, >1B2X_A_nan_nan... at 8.02e-82/110aa/100.000%
+3	110aa, >1BNI_B_nan_nan... at 8.02e-82/110aa/100.000%
+4	110aa, >1BNJ_A_nan_nan... at 8.02e-82/110aa/100.000%
+5	110aa, >1BNR_A_nan_nan... at 8.02e-82/110aa/100.000%
+6	110aa, >1FW7_A_nan_nan... at 8.02e-82/110aa/100.000%
+>Cluster 45
+0	110aa, >3B61_A_E14Q_nan... *
+>Cluster 46
+0	107aa, >1FKS_A_nan_nan... *
+>Cluster 47
+0	104aa, >1BVI_B_nan_nan... *
+1	104aa, >1I0V_A_nan_nan... at 5.14e-76/104aa/100.000%
+2	104aa, >1RGA_A_nan_nan... at 5.14e-76/104aa/100.000%
+3	104aa, >1YGW_A_nan_nan... at 5.14e-76/104aa/100.000%
+4	104aa, >9RNT_A_nan_nan... at 5.14e-76/104aa/100.000%
+>Cluster 48
+0	104aa, >1HRC_A_nan_nan... *
+1	104aa, >3NBS_A_nan_nan... at 6.33e-76/104aa/100.000%
+>Cluster 49
+0	99aa, >1HPX_A_nan_nan... *
+1	99aa, >3FX5_A_nan_nan... at 2.23e-67/99aa/94.949%
+2	99aa, >3FX5_B_nan_nan... at 2.23e-67/99aa/94.949%
+>Cluster 50
+0	98aa, >1BEG_A_nan_nan... *
+1	98aa, >1BEO_A_nan_nan... at 3.35e-61/87aa/100.000%
+>Cluster 51
+0	96aa, >1LNI_A_nan_nan... *
+1	96aa, >1RGG_A_nan_nan... at 1.83e-55/96aa/100.000%
+>Cluster 52
+0	91aa, >1FNA_A_nan_nan... *
+>Cluster 53
+0	86aa, >1NTI_A_E78C_A... *
+1	86aa, >1NTI_A_I86C_A... at 1.26e-59/85aa/98.824%
+2	86aa, >1NTI_A_M46C_A... at 1.93e-59/86aa/97.674%
+3	86aa, >1NTI_A_S65C_A... at 1.01e-59/86aa/97.674%
+4	86aa, >1NTI_A_T17C_A... at 1.30e-59/86aa/97.674%
+5	86aa, >1NTI_A_V36C_A... at 1.16e-59/86aa/97.674%
+>Cluster 54
+0	85aa, >1POH_A_nan_nan... *
+>Cluster 55
+0	83aa, >2CI2_I_nan_nan... *
+1	83aa, >2SNI_I_nan_nan... at 2.24e-58/83aa/100.000%
+>Cluster 56
+0	79aa, >1A91_A_nan_nan... *
+>Cluster 57
+0	76aa, >1UBQ_A_nan_nan... *
+>Cluster 58
+0	76aa, >2BCA_A_nan_nan... *
+1	76aa, >4ICB_A_nan_nan... at 1.79e-39/76aa/98.684%
+2	75aa, >1IG5_A_nan_nan... at 2.22e-38/75aa/98.667%
+3	75aa, >1IGV_A_nan_nan... at 2.22e-38/75aa/98.667%
+4	75aa, >3ICB_A_nan_nan... at 2.22e-38/75aa/98.667%
+>Cluster 59
+0	68aa, >6OBI_A_D27H_A... *
+>Cluster 60
+0	68aa, >6OBI_A_E28H_A... *
+>Cluster 61
+0	67aa, >1J7P_A_E127A,M144H_A... *
+1	67aa, >1J7P_A_E127K,M144H_A... at 3.63e-46/67aa/98.507%
+2	67aa, >1J7P_A_I125K,M144H_A... at 5.72e-45/67aa/97.015%
+3	67aa, >1J7P_A_M144H,A128T_A... at 2.25e-45/67aa/97.015%
+4	67aa, >1J7P_A_M144H_A... at 5.45e-46/67aa/98.507%
+>Cluster 62
+0	66aa, >1AZP_A_nan_nan... *
+1	66aa, >1CA5_A_nan_nan... at 1.42e-44/66aa/100.000%
+2	66aa, >1SAP_A_nan_nan... at 1.42e-44/66aa/100.000%
+3	64aa, >1BNZ_A_nan_nan... at 9.92e-33/64aa/79.688%
+4	64aa, >1C8C_A_nan_nan... at 2.51e-33/64aa/79.688%
+5	63aa, >1BF4_A_nan_nan... at 4.64e-32/61aa/81.967%
+>Cluster 63
+0	62aa, >1CVO_A_nan_nan... *
+1	62aa, >1KXI_A_nan_nan... at 1.88e-42/62aa/100.000%
+>Cluster 64
+0	62aa, >1ERA_A_nan_nan... *
+1	62aa, >3EBX_A_nan_nan... at 5.59e-44/62aa/100.000%
+>Cluster 65
+0	61aa, >1IGC_A_nan_nan... *
+1	61aa, >1IGD_A_nan_nan... at 8.96e-41/61aa/100.000%
+2	61aa, >2IGD_A_nan_nan... at 8.96e-41/61aa/100.000%
+3	61aa, >2IGH_A_nan_nan... at 3.03e-40/61aa/98.361%
+4	56aa, >1GB1_A_nan_nan... at 2.08e-32/55aa/89.091%
+5	56aa, >1PGA_A_nan_nan... at 2.08e-32/55aa/89.091%
+6	56aa, >1PGB_A_nan_nan... at 2.08e-32/55aa/89.091%
+7	56aa, >2GB1_A_nan_nan... at 2.08e-32/55aa/89.091%
+8	56aa, >2QMT_A_nan_nan... at 6.65e-32/54aa/88.889%
+9	56aa, >3GB1_A_nan_nan... at 2.08e-32/55aa/89.091%
+>Cluster 66
+0	58aa, >1BHC_J_nan_nan... *
+1	58aa, >1BPI_A_nan_nan... at 3.57e-41/58aa/100.000%
+2	58aa, >1D0D_B_nan_nan... at 3.57e-41/58aa/100.000%
+3	58aa, >4PTI_A_nan_nan... at 3.57e-41/58aa/100.000%
+>Cluster 67
+0	57aa, >1BUS_A_nan_nan... *
+1	57aa, >2BUS_A_nan_nan... at 1.52e-40/57aa/100.000%
+2	56aa, >1PPF_I_nan_nan... at 7.19e-18/56aa/53.571%
+3	56aa, >2OVO_A_nan_nan... at 6.37e-18/56aa/53.571%
+>Cluster 68
+0	55aa, >3FT7_B_nan_nan... *
+>Cluster 69
+0	53aa, >1EGF_A_nan_nan... *
+1	53aa, >1EPG_A_nan_nan... at 1.86e-37/53aa/100.000%
+2	53aa, >1EPH_A_nan_nan... at 1.86e-37/53aa/100.000%
+3	53aa, >1EPI_A_nan_nan... at 1.86e-37/53aa/100.000%
+4	53aa, >3EGF_A_nan_nan... at 1.86e-37/53aa/100.000%
+>Cluster 70
+0	51aa, >1HIC_A_nan_nan... *
+>Cluster 71
+0	41aa, >1BI6_H_nan_nan... *
+>Cluster 72
+0	35aa, >1YRF_A_D44N,K48M_A... *
+1	35aa, >1YRF_A_D44N_A... at 2.88e-22/35aa/97.143%
+2	35aa, >1YRF_A_K48M_A... at 1.05e-22/35aa/97.143%
+3	35aa, >1YRF_A_nan_nan... at 1.15e-21/35aa/94.286%
+>Cluster 73
+0	32aa, >1A93_A_nan_nan... *
+>Cluster 74
+0	31aa, >1FMH_A_nan_nan... *
+1	30aa, >1U2U_A_nan_nan... at 1.49e-13/29aa/96.552%
+>Cluster 75
+0	31aa, >1FMH_B_nan_nan... *
+>Cluster 76
+0	31aa, >2ZTA_A_nan_nan... *
+>Cluster 77
+0	27aa, >1ANS_A_nan_nan... *
+>Cluster 78
+0	11aa, >1BI6_L_nan_nan... *
+>Cluster 79
+0	11aa, >3SRN_B_nan_nan... *
