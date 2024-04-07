@@ -1,17 +1,4 @@
 PDB ID,Res Name,Chain,Res ID,pKa,Expt. Uncertainty,Neighbors <4A,# HB R-R,#HB R(D)-BB,# HB  R-BB(D),#HB R(A)-BB,# HB R-BB(A),#HB BB-BB,%SASA,Expt. Method,Expt. Salt Concentration,Expt. pH,Expt. Temp.,Reference,Mutant Pos,Mutant Chain,Std deviation,Unnamed: 8,Expt. method,Expt. salt conc,Expt. temp
-3EBX,HIS,A,6,2.8,,Q7,,,,,1.0,,6.9,NMR,,,296-326 K,https://www.ncbi.nlm.nih.gov/pubmed/710401,,,,,,,
-1GYM,HIS,A,92,5.4,,E93,,,,,1.0,1.0,58.2,NMR,,4.0-9.0,298 K,https://www.ncbi.nlm.nih.gov/pubmed/9300493,,,,,,,
-2CPL,HIS,A,70,5.84,0.05,"D66, R69",,,,,,,66.6,NMR,0.1 M,4.6-10.7,293 K,https://www.sciencedirect.com/science/article/pii/0167483894901325?via%3Dihub,,,,,,,
-3SSI,HIS,A,106,6,0.1,E102,,,,,,,13.6,NMR,,2.0-9.0,303 K,https://www.ncbi.nlm.nih.gov/pubmed/6998977,,,,,,,
-3SRN,HIS,B,119,6.33,0.01,,,,,,,2.0,69.3,NMR,0.3 M,4.0-8.5,313 K,https://www.pnas.org/content/88/18/8116,,,,,,,
-1KF3,HIS,A,119,6.5,0.1,,,,,,,1.0,52.1,NMR,1 M,1.2-7.9,303 K,https://www.ncbi.nlm.nih.gov/pubmed/8615690,,,,,,,
-1DUK,HIS,A,81,6.58,0.02,"K78, K79, H82",,,,,1.0,1.0,78.7,NMR,0.1 M,5.5-10,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00143a018,,,,,,,
-1EPH,HIS,A,22,6.8,0.1,,,,,,,,13.2,1H NMR,,1.5-9.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,,,,,,,
-1HHO,HIS,B,146,7,0.1,"H143, K144",,,,,,,107.7,NMR,,5.0-9.0,309.5 K,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,,,,,,,
-1B2V,HIS,A,179,7.2,,,,,,,,,,,,4.9-9.0,,https://www.ncbi.nlm.nih.gov/pubmed/11910020,Y75A,A,,,NMR,0.1 M,303 K
-2TGA,HIS,A,57,7.33,0.02,D102,3.0,,,,1.0,,43.8,NMR,0.5 M,3.0-9.0,303 K,https://pubs.acs.org/doi/abs/10.1021/bi00615a008,,,,,,,
-1THE,HIS,A,111,7.7,,"E109, H110",,,,,,,77.7,Reaction kinetics,250 mM,3.2-8.4,297 K,https://www.ncbi.nlm.nih.gov/pubmed/1537854,,,,,,,
-1LNI,HIS,A,53,8.27,0.02-0.07,E54,,,,,,1.0,35.4,NMR,0.1 M,1.68-8.83,293 K,https://www.ncbi.nlm.nih.gov/pubmed/12527309,,,,,,,
 2TGA,HIS,A,40,4.57,0.02,,4.0,,,,,,30.7,NMR,0.5 M,3.0-9.0,303 K,https://pubs.acs.org/doi/abs/10.1021/bi00615a008,,,,,,,
 2PYO,HIS,D,46,5.64,0.03,"K43, Q44",,1.0,,,,1.0,10.69,NMR,200 mM,4.4-9.1,303 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8626509/pdf/41598_2021_Article_2436.pdf,,,,,,,
 1DE3,HIS,A,137,5.9,,,,,,,,,,,,3.0-8.5,,https://pubs.acs.org/doi/abs/10.1021/bi0349773,E96Q,A,0.1,,NMR,0.2 M,308 K

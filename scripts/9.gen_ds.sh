@@ -31,7 +31,7 @@ sh scripts/6.cluster.sh
 python scripts/7.nonredundant.py --res NTR
 
 python scripts/8.cat_ds.py
-mkdir -p data/CSVs/
-mv test*.csv data/CSVs
-mv train*.csv data/CSVs
-mv val*.csv data/CSVs
+mkdir -p data/
+mv test*.csv data/
+mv train*.csv data/
+mv val*.csv data/

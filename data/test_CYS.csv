@@ -1,5 +1,5 @@
 PDB ID,Res Name,Chain,Res ID,pKa,Expt. Uncertainty,Neighbors <4A,# HB R-R,#HB R(D)-BB,# HB  R-BB(D),#HB R(A)-BB,# HB R-BB(A),#HB BB-BB,%SASA,Expt. Method,Expt. Salt Concentration,Expt. pH,Expt. Temp.,Reference,Mutant Pos,Mutant Chain,Std deviation,Unnamed: 8,Expt. method,Expt. salt conc,Expt. temp
 1THE,CYS,A,29,3.6,,,,,,,,,14.6,Reaction kinetics,250 mM,3.2-8.4,297 K,https://www.ncbi.nlm.nih.gov/pubmed/1537854,,,,,,,
 4MA9,CYS,A,46,5.94,0.1,,,,,,,1.0,0.0,NMR,100 mM,3.0-10.0,297 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2645924/,,,,,,,
-1EH6,CYS,A,145,5.3,0.2,,,,,,,1.0,2.9,UV spectrophotometry,0.25 M,,296 K,https://www.ncbi.nlm.nih.gov/pubmed/12974631,,,,,,,
-2L90,CYS,A,72,8.2,,,,,,,,,,,,5.0-10.5,,https://www.ncbi.nlm.nih.gov/pubmed/22661719,E115Q,A,0.1,,NMR,200 mM,310 K
+1P5F,CYS,A,106,5.4,0.1,,,,,,,2.0,12.3,Spectrophotometric titration,0.2 M,,303 K,https://pubs.acs.org/doi/10.1021/bi800282d,,,,,,,
+2MGE,CYS,A,125,8.43,,,,,,,,,,,,,,https://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00631,A125C,A,0.03,,,,

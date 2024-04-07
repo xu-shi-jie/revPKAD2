@@ -49,8 +49,8 @@ if __name__ == '__main__':
         train_dfs.append(res_df[3::7])
         train_dfs.append(res_df[6::7])
         test_dfs.append(res_df[1::7])
-        test_dfs.append(res_df[4::7])
-        val_dfs.append(res_df[5::7])
+        test_dfs.append(res_df[5::7])
+        val_dfs.append(res_df[4::7])
 
     test_df = pd.concat(test_dfs)
     train_df = pd.concat(train_dfs + val_dfs)

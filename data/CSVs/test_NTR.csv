@@ -1,5 +1,0 @@
-PDB ID,Res Name,Chain,Res ID,pKa,Expt. Uncertainty,Neighbors <4A,# HB R-R,#HB R(D)-BB,# HB  R-BB(D),#HB R(A)-BB,# HB R-BB(A),#HB BB-BB,%SASA,Expt. Method,Expt. Salt Concentration,Expt. pH,Expt. Temp.,Reference,Mutant Pos,Mutant Chain,Std deviation,Unnamed: 8,Expt. method,Expt. salt conc,Expt. temp
-1HHO,NTR,B,1,7,0.1,,,,,,,,76.6,NMR,,5.0-9.0,309.5 K,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,,,,,,,
-2LZT,NTR,A,1,7.9,0.1,,,,,,1.0,1.0,64.7,NMR,0.1 M,1.8-11.1,298 K,https://www.ncbi.nlm.nih.gov/pubmed/6771251,,,,,,,
-3RN3,NTR,A,1,7.6,0.2,,,,,,,,137.7,NMR,30 mM,1.5-11.0,293 K,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,,,,,,,
-1RGG,NTR,A,1,9.14,0.02-0.07,,,,,,,1.0,129.6,NMR,0.1 M,1.68-8.83,293 K,https://www.ncbi.nlm.nih.gov/pubmed/12527309,,,,,,,
