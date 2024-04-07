@@ -1,0 +1,22 @@
+PDB ID,Res Name,Chain,Res ID,pKa,Expt. Uncertainty,Neighbors <4A,# HB R-R,#HB R(D)-BB,# HB  R-BB(D),#HB R(A)-BB,# HB R-BB(A),#HB BB-BB,%SASA,Expt. Method,Expt. Salt Concentration,Expt. pH,Expt. Temp.,Reference,Mutant Pos,Mutant Chain,Std deviation,Unnamed: 8,Expt. method,Expt. salt conc,Expt. temp
+1KF3,ASP,A,38,2.1,0.1,R39,,,,,,,124.0,NMR,1 M,1.2-7.9,303 K,https://www.ncbi.nlm.nih.gov/pubmed/8615690,,,,,,,
+1NLX,ASP,A,452,2.4,,K56,,,,,,2.0,49.45,NMR,10mM,2.2-8.5,298K,https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.9b00540,,,,,,,
+135L,ASP,A,18,2.68,0.1,,,,,,,,57.9,NMR,2.5 M,1.0-7.0,308 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,,,,,,,
+1DIV,ASP,A,8,2.99,0.05,K7,,,,,,,106.3,NMR,100 mM,1.5-12.5,298 K,pKa Values and the pH Dependent Stability of the NTRinal Domain of L9 as Probes of Electrostatic Interactions in the Denatured State. Differentiation between Local and Nonlocal Interactions,,,,,,,
+1DIV,ASP,A,23,3.05,0.04,,,,,,,,104.0,NMR,101 mM,1.5-12.5,298 K,pKa Values and the pH Dependent Stability of the NTRinal Domain of L9 as Probes of Electrostatic Interactions in the Denatured State. Differentiation between Local and Nonlocal Interactions,,,,,,,
+1QT8,ASP,A,47,3.1,,,,,,,,,,,,1.8-7.8,,https://onlinelibrary.wiley.com/doi/pdf/10.1002/pro.3562,H26H,A,0.1,31.98,C-NMR,130mM,298K
+1GOA,ASP,A,94,3.2,,"K95, K96",1.0,,,,,,105.3,NMR,0.1 M,2.0-8.0,300 K,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,,,,,,,
+1H4G,ASP,B,15,3.35,0.14,"R49, K50",,,,1.0,,2.0,25.1,NMR,1 M,3.2-8.7,303 K,https://pubs.acs.org/doi/abs/10.1021/bi049948m,,,,,,,
+3WU2,ASP,o,23,3.41,0.05,"D24, K203",,,,,,1.0,84.78,NMR,20mM,3.1-7.9,300K,https://chemistry-europe.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cbic.201900739,,,,,,,
+1YRF,ASP,A,46,3.49,,,,,,,,,,,,2.0-7.0,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8197028/pdf/nihms-1705730.pdf,"D44N,K48M",A,0.08,70.81,NMR,0M,298K
+1I0V,ASP,A,3,3.54,0.02,,,,,1.0,,1.0,79.0,NMR,1 M,2.0-9.0,308 K,https://link.springer.com/article/10.1007/s002490100138,,,,,,,
+1BUS,ASP,A,12,3.6,,"K11, K14",,,,,,,8.8,1H NMR,0.1 M,3.0-6.0,318 K,https://www.ncbi.nlm.nih.gov/pubmed/6094827,,,,,,,
+1BI6,ASP,H,38,3.7,0.2,E1,,,,,,,96.8,NMR,,1.5-7.0,313 K,https://www.ncbi.nlm.nih.gov/pubmed/12674503,,,,,,,
+1STN,ASP,A,143,3.8,0.1,,,,,,,,131.2,NMR,0.1 M,2.5-7.5,298 K,https://www.ncbi.nlm.nih.gov/pubmed/19533744,,,,,,,
+1HNG,ASP,A,94,3.87,0.04,R96,,,,,,2.0,44.7,NMR,100 mM,2.0-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi992209z,,,,,,,
+1DE3,ASP,A,9,3.9,0.1,"Q10, K11, K139, E140",,,,1.0,,1.0,26.9,NMR,0.1 M,3.0-8.5,298 K,https://pubs.acs.org/doi/abs/10.1021/bi981672t,,,,,,,
+1EGF,ASP,A,27,4,0.1,H22,,,,,1.0,,115.2,1H NMR,,1.5-9.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,,,,,,,
+P53378,ASP,A,447,4.13,0.05,,,,,,,,,NMR,,2.3-7.2,297K,https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3618,,,,,,,
+1BVI,ASP,B,49,4.22,0.05,,,,,,,1.0,120.5,NMR,1 M,2.0-9.0,308 K,https://link.springer.com/article/10.1007/s002490100138,,,,,,,
+1DE3,ASP,A,57,4.3,0.1,"D59, H82",,,,,,1.0,86.6,NMR,0.1 M,3.0-8.5,298 K,https://pubs.acs.org/doi/abs/10.1021/bi981672t,,,,,,,
+1A91,ASP,A,7,5.6,0.3,,,,,,,2.0,0.0,NMR,50 mM,3.3-8.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00049a034,,,,,,,

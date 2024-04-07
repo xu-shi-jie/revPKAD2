@@ -1,8 +1,6 @@
-Started 2024年  3月 27日 水曜日 18:48:12 JST
-Total seqs 294 in tmp/in.txt
-..........100 finished 35 clusters 170 passed 35/170 clstr/passed 57.82% done 1.79 cpu
-..........200 finished 46 clusters 207 passed 11/37 clstr/passed 70.4% done 1.84 cpu
-.........294 finished 80 clusters 294 passed 34/87 clstr/passed 100% done 2 cpu
-Completed 2024年  3月 27日 水曜日 18:48:13 JST
+Started 2024年  4月  7日 日曜日 16:25:57 JST
+Total seqs 21 in tmp/in.txt
+..21 finished 12 clusters 21 passed 12/21 clstr/passed 100% done 0.26 cpu
+Completed 2024年  4月  7日 日曜日 16:25:58 JST
 
 Total CPUs on remote hosts: 0

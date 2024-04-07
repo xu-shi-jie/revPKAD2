@@ -1,4 +1,5 @@
 
+import argparse
 import os
 import shutil
 from pathlib import Path
@@ -38,6 +39,10 @@ def fetch_seq(file, chain):
 
 
 if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--res', type=str, default='ASP')
+    args = parser.parse_args()
+
     shutil.rmtree('seqs', ignore_errors=True)
     Path('seqs').mkdir(parents=True, exist_ok=True)
 
@@ -51,6 +56,8 @@ if __name__ == '__main__':
     df = df[pd.to_numeric(df['pKa'], errors='coerce').notnull()]
     df = df.drop_duplicates(
         subset=['PDB ID', 'Mutant Pos', 'Mutant Chain', 'Chain', 'Res ID', 'Res Name'])
+
+    df = df[df['Res Name'] == args.res]
 
     for i, row in tqdm(df.iterrows()):
         pdbid, chain, resid, resname, mut_pos, mut_chain = row['PDB ID'], row['Chain'], int(

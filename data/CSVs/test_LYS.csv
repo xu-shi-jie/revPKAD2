@@ -1,0 +1,16 @@
+PDB ID,Res Name,Chain,Res ID,pKa,Expt. Uncertainty,Neighbors <4A,# HB R-R,#HB R(D)-BB,# HB  R-BB(D),#HB R(A)-BB,# HB R-BB(A),#HB BB-BB,%SASA,Expt. Method,Expt. Salt Concentration,Expt. pH,Expt. Temp.,Reference,Mutant Pos,Mutant Chain,Std deviation,Unnamed: 8,Expt. method,Expt. salt conc,Expt. temp
+1MUT,LYS,A,39,8.4,0.4,E53,,,,,,,79.3,NMR,,5.5-10.5,296 K,https://pubs.acs.org/doi/abs/10.1021/bi9918745,,,,,,,
+1PPF,LYS,I,13,9.87,0.04,,,,,,1.0,,38.8,NMR,0.5 M,5.0-13.0,298 K,https://pubs.acs.org/doi/pdf/10.1021/bi980187v,,,,,,,
+3FT7,LYS,B,53,10.38,0.11,,,,,,,,,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,
+2BCA,LYS,A,1,10.59,0.04,E5,,,,,,1.0,92.5,NMR,,5.25-12.25,300 K,https://www.ncbi.nlm.nih.gov/pubmed/8683586,,,,,,,
+1IGD,LYS,A,24,10.7,0.1,,,,,,,,87.2,NMR,,1.5-11.6,298 K,https://pubs.acs.org/doi/abs/10.1021/bi9630927,,,,,,,
+3FT7,LYS,B,12,10.83,0.1,,,,,,,,74.18,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,
+1PPF,LYS,I,29,11.12,0.02-0.07,D27,,,,,1.0,1.0,61.8,NMR,0.015 M,5.0-13.0,298 K,https://pubs.acs.org/doi/pdf/10.1021/bi980187v,,,,,,,
+3FT7,LYS,B,55,11.77,0.1,,,,,,,,,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,
+1FEZ,LYS,A,53,9.3,,,,,,,,,25.7,Potentiometric titration,10 mM,8.5-10.0,303 K,https://pubs.acs.org/doi/abs/10.1021/bi026388n,,,,,,,
+1NFN,LYS,A,75,10.1,0.1,K72,,,,,,2.0,15.2,NMR,150 mM,5.5-12.5,310 K,https://www.ncbi.nlm.nih.gov/pubmed/12588864,,,,,,,
+2RKS,LYS,A,38,10.4,,,,,,,,,,,,4.0-10.0,,https://www.pnas.org/content/108/13/5260,K38K,A,0.2,,NMR,,298 K
+1BHC,LYS,J,46,10.6,0.1,D50,,,1.0,,,,64.0,NMR,200 mM,0-16,293 K,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,,,,,,,
+2ZTA,LYS,A,3,10.78,0.03,"R1, Q4",,,,,,,73.4,NMR,150 mM,1.0-13.0,298 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,,,,,,,
+2BCA,LYS,A,12,11.06,0.07,E11,,,,,1.0,1.0,90.0,NMR,,5.25-12.25,300 K,https://www.ncbi.nlm.nih.gov/pubmed/8683586,,,,,,,
+2BCA,LYS,A,29,11.28,0.03,"K25, E26, E27",,,,,,1.0,46.4,NMR,,5.25-12.25,300 K,https://www.ncbi.nlm.nih.gov/pubmed/8683586,,,,,,,

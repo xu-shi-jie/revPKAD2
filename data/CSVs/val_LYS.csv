@@ -1,0 +1,8 @@
+PDB ID,Res Name,Chain,Res ID,pKa,Expt. Uncertainty,Neighbors <4A,# HB R-R,#HB R(D)-BB,# HB  R-BB(D),#HB R(A)-BB,# HB R-BB(A),#HB BB-BB,%SASA,Expt. Method,Expt. Salt Concentration,Expt. pH,Expt. Temp.,Reference,Mutant Pos,Mutant Chain,Std deviation,Unnamed: 8,Expt. method,Expt. salt conc,Expt. temp
+1BEG,LYS,A,94,9.4,,,,,,,,2.0,69.4,NMR,,1.5-11.2,313 K,https://www.ncbi.nlm.nih.gov/pubmed/9862128,,,,,,,
+1BEG,LYS,A,61,10.1,,K62,,,,,,2.0,77.5,NMR,,1.5-11.2,313 K,https://www.ncbi.nlm.nih.gov/pubmed/9862128,,,,,,,
+3FT7,LYS,B,32,10.43,0.06,"K30, E31",,,,,,2.0,73.03,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,
+1LSE,LYS,A,33,10.6,0.1,E35,,,,,,2.0,51.6,Potentiometric titration,0.1 M,1.8-11.1,298 K,https://www.ncbi.nlm.nih.gov/pubmed/6771251,,,,,,,
+1LSE,LYS,A,96,10.8,0.1,K97,,1.0,,,1.0,1.0,34.1,Potentiometric titration,0.1 M,1.8-11.1,298 K,https://www.ncbi.nlm.nih.gov/pubmed/6771251,,,,,,,
+1NFN,LYS,A,157,11.1,0.1,"D153, D154, Q156, R158",,,,,,1.0,76.7,NMR,150 mM,5.5-12.5,310 K,https://www.ncbi.nlm.nih.gov/pubmed/12588864,,,,,,,
+2BCA,LYS,A,72,11.33,0.08,"K71, Q75",,,,,,,69.4,NMR,,5.25-12.25,300 K,https://www.ncbi.nlm.nih.gov/pubmed/8683586,,,,,,,

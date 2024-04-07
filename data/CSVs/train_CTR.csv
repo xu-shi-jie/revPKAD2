@@ -1,0 +1,10 @@
+PDB ID,Res Name,Chain,Res ID,pKa,Expt. Uncertainty,Neighbors <4A,# HB R-R,#HB R(D)-BB,# HB  R-BB(D),#HB R(A)-BB,# HB R-BB(A),#HB BB-BB,%SASA,Expt. Method,Expt. Salt Concentration,Expt. pH,Expt. Temp.,Reference,Mutant Pos,Mutant Chain,Std deviation,Unnamed: 8,Expt. method,Expt. salt conc,Expt. temp
+3RN3,CTR,A,124,2.4,0.2,,,,,,,,78.5,NMR,30 mM,1.5-11.0,293 K,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,,,,,,,
+1ERT,CTR,A,105,3.2,0.1,,,,,,,,74.0,1H NMR,75-100 mM,2.1-10.6,313 K,https://pubs.acs.org/doi/abs/10.1021/bi00128a019,,,,,,,
+1BEG,CTR,A,98,3.51,0.01,,,,,,,,49.9,NMR,,1.5-11.2,313 K,https://www.ncbi.nlm.nih.gov/pubmed/9862128,,,,,,,
+1BPI,CTR,A,58,2.9,0.1,,,,,,,,250.3,NMR,200 mM,0-16,293 K,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,,,,,,,
+1A2P,CTR,B,110,3.3,0.1,,,,,,,,41.8,2D 1H NMR,50mM-600mM,0.2-6.3,303 K,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,,,,,,,
+4ICB,CTR,A,75,3.2,0.05,,,,,,,,120.9,NMR,1 M,2.4-7.6,300 K,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,,,,,,,
+1EPH,CTR,A,53,3.5,0.1,,,,,,,,133.7,1H NMR,,1.5-9.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,,,,,,,
+1HNG,CTR,A,176,3.11,0.05,,,,,,,,189.6,NMR,100 mM,2.0-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi992209z,,,,,,,
+1C8C,CTR,A,64,3.4,,,,,,,,,211.3,NMR,,1.5-12.0,300 K,https://www.ncbi.nlm.nih.gov/pubmed/12578354,,,,,,,
